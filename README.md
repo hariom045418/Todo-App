@@ -31,7 +31,7 @@ A simple, modern, and professional web application built using **HTML, CSS, and 
 ---
 
 ## 🔗 Click Here to Demo:  
-👉 (https://hariom045418.github.io/Todo-App/)
+https://hariom045418.github.io/Todo-App/
 
 ---
 
